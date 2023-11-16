@@ -2,7 +2,10 @@ package paquete;
 
 import utilidades.Sistema;
 
-// Bananas
+
+
+// Main
+
 public class Principal {
 
 	public static void main(String[] args) {
